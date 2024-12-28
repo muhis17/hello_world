@@ -4,7 +4,7 @@ git init
 
 git remote add origin https://github.com/muhis17/joo1.git
 
-echo 'print("Hello World!")' > hello_world.py
+echo <'print("Hello World!")' > hello_world.py
 
 git add hello_world.py
 
